@@ -1,5 +1,7 @@
 build/
 bin/
+extras/
+deps/eigen/
 
 # Created by https://www.gitignore.io/api/xcode,osx,windows,visualstudio
 
